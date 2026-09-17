@@ -1,0 +1,3 @@
+Nama: haikal
+Kelas: tkj 1
+Praktik Git dan GitHub
